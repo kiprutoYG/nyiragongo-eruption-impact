@@ -1,4 +1,8 @@
 # Nyiragongo's Green Revolution: From Fiery Destruction to Lush Rebirth
+[](eruption.png)
+## Project Storyboard
+![Nyiragongo Storyboard Preview](storyboard.png)  
+[View Full PDF](storyboard.pdf)
 
 ## Introduction  
 On 22nd May 2021, Mount Nyiragongo roared to life, painting the sky red and scarring the landscape. This project explores the **quantifiable environmental impact** of the eruption and the astonishing ecological recovery that followed.  
